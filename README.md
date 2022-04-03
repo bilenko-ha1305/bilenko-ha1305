@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">dinozzzzzzawrik</a> 
+<h1 align="center">Привет всем, Вас приветствует <a href="http://dinozzzzzawrik.fun/" target="_blank">dinozzzzzzawrik</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Ukraine 🇺🇦</h3>
+<h3 align="center">IT студент с Украины</h3>
 
 
