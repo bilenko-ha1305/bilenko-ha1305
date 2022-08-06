@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python 3.10-9cf)
+![Python](https://img.shields.io/badge/-Python3.10-9cf)
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dinozzzzzawrik.sss)
