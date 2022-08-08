@@ -4,6 +4,7 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python3.10-9cf)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf)
 ![GIT](https://img.shields.io/badge/-GIT-9cf)
 ![Linux](https://img.shields.io/badge/-Linux-9cf)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-9cf)
