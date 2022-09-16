@@ -7,7 +7,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf)
 ![GIT](https://img.shields.io/badge/-GIT-9cf)
 ![Linux](https://img.shields.io/badge/-Linux-9cf)
-![SCRUM](https://img.shields.io/badge/-SCRUM-9cf)
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dinozzzzzawrik.sss)
