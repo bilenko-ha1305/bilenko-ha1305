@@ -1,9 +1,9 @@
 <h1 align="center">Hello there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python developer & environmental engineer student</h3>
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python3.10-9cf)
+![Node.Js](https://img.shields.io/badge/-NodeJs-9cf)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf)
 ![GIT](https://img.shields.io/badge/-GIT-9cf)
 ![Linux](https://img.shields.io/badge/-Linux-9cf)
