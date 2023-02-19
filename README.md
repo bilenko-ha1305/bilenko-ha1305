@@ -1,6 +1,6 @@
 <h1 align="center">Hello there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![https://count.getloli.com/get/@dinozzzzzawrik](https://count.getloli.com/get/@dinozzzzzawrik?theme=moebooru)
+![name](https://count.getloli.com/get/@dinozzzzzawrik?theme=moebooru)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python3.10-9cf)
