@@ -14,4 +14,4 @@
 ![GIT](https://img.shields.io/badge/-GIT-9cf)
 ![Linux](https://img.shields.io/badge/-Linux-9cf)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinozzzzzawrik)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilenko-ha1305)](https://github.com/anuraghazra/github-readme-stats)
